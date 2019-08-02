@@ -1,3 +1,1 @@
-# hello_world
-Just a hello world repo
-Making a change and commiting the change.
+See the wiki @ https://github.com/alex-aleyan/hello_world/wiki
