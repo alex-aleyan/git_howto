@@ -1,0 +1,14 @@
+[http]
+	sslverify = false
+	proxy = http://proxy-lmi.global.lmco.com:80
+[https]
+	sslverify = false
+	proxy = https://proxy-lmi.global.lmco.com:80
+[user]
+	name = alex-aleyan
+
+
+[color]
+	ui = auto
+	branch = auto
+	status = auto
